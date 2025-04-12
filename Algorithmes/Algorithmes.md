@@ -1,3 +1,5 @@
+
+
 # Algorithmes de Graphes
 Utilisés pour la navigation et la recherche de chemins dans les jeux.
 - [**A***](details/Astar) : Permet de trouver le chemin le plus court entre deux points en utilisant une heuristique pour améliorer la performance par rapport à Dijkstra.
