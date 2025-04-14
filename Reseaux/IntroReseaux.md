@@ -53,7 +53,7 @@ Les données sont encapsulées à chaque couche du modèle, ajoutant des informa
 
 #### Couche 1 – Physique
 
-- **Wi-Fi 7 (IEEE 802.11be)** : Protocole sans fil de nouvelle génération offrant des débits jusqu'à 46 Gbps, une latence réduite et une meilleure efficacité spectrale. citeturn0search11
+- **Wi-Fi 7 (IEEE 802.11be)** : Protocole sans fil de nouvelle génération offrant des débits jusqu'à 46 Gbps, une latence réduite et une meilleure efficacité spectrale. 
 
 #### Couche 2 – Liaison de données
 
@@ -62,8 +62,8 @@ Les données sont encapsulées à chaque couche du modèle, ajoutant des informa
 
 #### Couche 3 – Réseau
 
-- **IPv6+ (SRv6)** : Extension d'IPv6 intégrant le routage par segments, améliorant la programmabilité et la flexibilité du réseau. citeturn0search6
-- **Nym (Mixnet)** : Protocole axé sur la confidentialité, utilisant un réseau de mixage pour anonymiser le trafic. citeturn0search12
+- **IPv6+ (SRv6)** : Extension d'IPv6 intégrant le routage par segments, améliorant la programmabilité et la flexibilité du réseau. 
+- **Nym (Mixnet)** : Protocole axé sur la confidentialité, utilisant un réseau de mixage pour anonymiser le trafic. 
 
 #### Couche 4 – Transport
 
@@ -81,8 +81,8 @@ Les données sont encapsulées à chaque couche du modèle, ajoutant des informa
 #### Couche 7 – Application
 
 - **MQTT** : Protocole léger de messagerie publish/subscribe, adapté aux environnements contraints de l'IoT.
-- **CoAP** : Protocole RESTful pour les dispositifs contraints, utilisant UDP pour une communication efficace. citeturn0search15
-- **SFTP** : Protocole de transfert de fichiers sécurisé basé sur SSH, offrant une alternative moderne à FTP. citeturn0search8
+- **CoAP** : Protocole RESTful pour les dispositifs contraints, utilisant UDP pour une communication efficace. 
+- **SFTP** : Protocole de transfert de fichiers sécurisé basé sur SSH, offrant une alternative moderne à FTP.
 
 ### 3.2 Protocoles spécifiques à l'IoT
 
