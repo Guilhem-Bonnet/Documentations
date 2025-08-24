@@ -1,3 +1,6 @@
+---
+title: Protocoles Réseau Modernes (2025)
+---
 # Documentation Technique : Protocoles Réseau Modernes (2025)
 
 ## 1. Introduction
@@ -97,13 +100,13 @@ Les données sont encapsulées à chaque couche du modèle, ajoutant des informa
 
 | Protocole       | Avantages                                                                 | Inconvénients                                                                 |
 |-----------------|---------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-| **QUIC**        | - Connexions plus rapides grâce à l'établissement 0-RTT<br>- Intégration de TLS 1.3<br>- Résilience aux pertes de paquets | - Moins mature que TCP<br>- Support limité sur certains équipements           |
-| **SCTP**        | - Multi-homing<br>- Multi-streaming<br>- Détection rapide des pannes       | - Complexité de mise en œuvre<br>- Moins supporté que TCP/UDP                  |
-| **gRPC**        | - Communication efficace entre services<br>- Support de HTTP/2<br>- Génération automatique de code client/serveur | - Courbe d'apprentissage pour les développeurs<br>- Moins adapté aux environnements contraints |
-| **MQTT**        | - Léger et efficace pour l'IoT<br>- Faible consommation de bande passante  | - Moins sécurisé sans TLS<br>- Pas conçu pour le transfert de fichiers volumineux |
-| **CoAP**        | - Conçu pour les dispositifs contraints<br>- Utilise UDP pour une communication efficace | - Moins fiable que TCP<br>- Nécessite des mécanismes supplémentaires pour la sécurité |
-| **SFTP**        | - Transfert de fichiers sécurisé via SSH<br>- Authentification forte       | - Moins rapide que certains protocoles spécialisés<br>- Nécessite une configuration SSH |
-| **Nym (Mixnet)**| - Anonymat renforcé<br>- Résistance aux analyses de trafic                 | - Latence accrue<br>- Complexité de mise en œuvre                              |
+| **QUIC**        | - Connexions plus rapides grâce à l'établissement 0-RTT<br />- Intégration de TLS 1.3<br />- Résilience aux pertes de paquets | - Moins mature que TCP<br />- Support limité sur certains équipements           |
+| **SCTP**        | - Multi-homing<br />- Multi-streaming<br />- Détection rapide des pannes       | - Complexité de mise en œuvre<br />- Moins supporté que TCP/UDP                  |
+| **gRPC**        | - Communication efficace entre services<br />- Support de HTTP/2<br />- Génération automatique de code client/serveur | - Courbe d'apprentissage pour les développeurs<br />- Moins adapté aux environnements contraints |
+| **MQTT**        | - Léger et efficace pour l'IoT<br />- Faible consommation de bande passante  | - Moins sécurisé sans TLS<br />- Pas conçu pour le transfert de fichiers volumineux |
+| **CoAP**        | - Conçu pour les dispositifs contraints<br />- Utilise UDP pour une communication efficace | - Moins fiable que TCP<br />- Nécessite des mécanismes supplémentaires pour la sécurité |
+| **SFTP**        | - Transfert de fichiers sécurisé via SSH<br />- Authentification forte       | - Moins rapide que certains protocoles spécialisés<br />- Nécessite une configuration SSH |
+| **Nym (Mixnet)**| - Anonymat renforcé<br />- Résistance aux analyses de trafic                 | - Latence accrue<br />- Complexité de mise en œuvre                              |
 
 ### 4.2 Choix techniques selon les cas d'usage
 

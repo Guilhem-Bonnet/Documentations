@@ -1,3 +1,6 @@
+---
+title: EventBus & Événements en C#/.NET
+---
 # Documentation technique – EventBus & Événements en C#/.NET
 
 ## 1. Introduction

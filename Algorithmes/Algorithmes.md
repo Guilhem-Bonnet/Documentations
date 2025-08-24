@@ -1,4 +1,6 @@
-
+---
+title: Algorithmes
+---
 
 # Algorithmes de Graphes
 Utilisés pour la navigation et la recherche de chemins dans les jeux.

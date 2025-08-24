@@ -1,3 +1,7 @@
+---
+title: WebSocket en C#/.NET
+---
+
 # Documentation technique – WebSocket en C#/.NET
 
 ## 1. Introduction
